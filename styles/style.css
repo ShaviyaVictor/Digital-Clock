@@ -1,5 +1,5 @@
 #nav{
-    margin-left: 50px;
+    margin-left: 42%;
     padding: 0.25em 1em;
     background-color: #ebf5ff;
     color: #4312ae;
@@ -14,4 +14,30 @@
     color: black;
     background-color: white;
     font-weight: bold;
+}
+hgroup{
+    display: inline-block;
+    margin: 0px 35% 0 38.25%;
+    text-align: center;
+    font-size: 1.3em;
+    background-color: #ebf5ff;
+    padding: 0.1em 0.5em 0.1em 0.5em;
+    border: 1px SOLID BLACK;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+}
+#clock{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 6em;
+    font-family: 'Times New Roman', monospace;
+}
+.content{
+    display: grid;
+    justify-content: center;
+    width: 300px;
+    margin-left: 41%;
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 30px;
 }
