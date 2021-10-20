@@ -1,0 +1,17 @@
+#nav{
+    margin-left: 50px;
+    padding: 0.25em 1em;
+    background-color: #ebf5ff;
+    color: #4312ae;
+    border: 2PX SOLID BLACK;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+}
+#nav:hover{
+    color: black;
+    background-color: white;
+    font-weight: bold;
+}
